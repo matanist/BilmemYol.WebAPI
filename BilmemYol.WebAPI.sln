@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilmemYol.WebAPI", "BilmemYol.WebAPI\BilmemYol.WebAPI.csproj", "{D4C82C75-BEFE-4512-891D-A91DF3FB68B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilmemYol.Data", "BilmemYol.Data\BilmemYol.Data.csproj", "{EC1D2ACD-2661-40EA-8A89-40E1E43F496C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C82C75-BEFE-4512-891D-A91DF3FB68B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C82C75-BEFE-4512-891D-A91DF3FB68B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C82C75-BEFE-4512-891D-A91DF3FB68B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C82C75-BEFE-4512-891D-A91DF3FB68B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1D2ACD-2661-40EA-8A89-40E1E43F496C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1D2ACD-2661-40EA-8A89-40E1E43F496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1D2ACD-2661-40EA-8A89-40E1E43F496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1D2ACD-2661-40EA-8A89-40E1E43F496C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66985B5-08DE-4CC0-81B1-BA4AA03EE2A0}
+	EndGlobalSection
+EndGlobal
